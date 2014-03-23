@@ -5,7 +5,6 @@
 ### General
  - [ ] Port v0.6 changes to CLI
  - [ ] Choose a progress bar color/design.
- - [ ] Fix empty space at the bottom of some screens.
 
 ### Complete Test Install For Each Desktop
 
@@ -17,8 +16,8 @@
 - [ ] MATE
 - [ ] Cinnamon
 - [ ] KDE
-- [ ] GNOME
-- [ ] NOX
+- [x] GNOME
+- [x] NOX
 
 #### @karasu
 
@@ -49,6 +48,7 @@
  - [ ] Check if we can remove subprocess calls to pythonian code
  - [x] Encrypt home directory (needs testing)
  - [ ] Revamp the UI with a minimal, flat design.
+ - [ ] Fix empty space at the bottom of some screens.
  - [ ] Get aria2 working in download.py so we have more control over any failures.
 
 ### Advanced Install:
