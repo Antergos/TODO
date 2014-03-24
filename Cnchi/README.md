@@ -14,7 +14,7 @@
 - [ ] Xfce
 - [ ] Openbox
 - [ ] MATE
-- [ ] Cinnamon
+- [x] Cinnamon
 - [ ] KDE
 - [x] GNOME
 - [x] NOX
