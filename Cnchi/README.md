@@ -13,7 +13,7 @@
 - [ ] Razor-QT
 - [ ] Xfce
 - [ ] Openbox
-- [ ] MATE
+- [x] MATE
 - [x] Cinnamon
 - [ ] KDE
 - [x] GNOME
