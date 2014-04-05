@@ -5,6 +5,8 @@
 ### General
  - [ ] Port v0.6 changes to CLI
  - [ ] Choose a progress bar color/design.
+ - [ ] Discuss/Decide on adding Dash-to-Dock and GNO-MENU extensions to GNOME.
+ - [ ] Create a symbolic version of our logo icon for use in GNOME (GNOMENU)
 
 ### Complete Test Install For Each Desktop
 
@@ -37,9 +39,9 @@
 - [ ] Openbox
 - [ ] MATE
 - [ ] Cinnamon
-- [ ] KDE
-- [ ] GNOME
-- [ ] NOX
+- [X] KDE
+- [X] GNOME
+- [X] NOX
 
 
 ## v0.8 Development Cycle
