@@ -3,8 +3,8 @@
 ## v0.6 Release Blockers
 
 ### General
- - [ ] Port v0.6 changes to CLI
- - [ ] Choose a progress bar color/design.
+ - [x] Port v0.6 changes to CLI
+ - [x] Choose a progress bar color/design.
  - [ ] Discuss/Decide on adding Dash-to-Dock and GNO-MENU extensions to GNOME.
  - [ ] Create a symbolic version of our logo icon for use in GNOME (GNOMENU)
 
