@@ -25,7 +25,7 @@
 
 - [-] Razor-QT (installation finished, razor does not start)
 - [x] Xfce
-- [ ] Openbox
+- [x] Openbox
 - [ ] MATE
 - [ ] Cinnamon
 - [ ] KDE
