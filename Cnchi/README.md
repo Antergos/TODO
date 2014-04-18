@@ -23,7 +23,7 @@
 
 #### @karasu
 
-- [ ] Razor-QT (installation finished, can't log in)
+- [ ] Razor-QT (installation finished, razor does not start)
 - [ ] Xfce
 - [ ] Openbox
 - [ ] MATE
