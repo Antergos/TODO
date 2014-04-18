@@ -23,8 +23,8 @@
 
 #### @karasu
 
-- [ ] Razor-QT (installation finished, razor does not start)
-- [ ] Xfce
+- [-] Razor-QT (installation finished, razor does not start)
+- [x] Xfce
 - [ ] Openbox
 - [ ] MATE
 - [ ] Cinnamon
