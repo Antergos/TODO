@@ -26,7 +26,7 @@
 - [-] Razor-QT (installation finished, razor does not start)
 - [x] Xfce
 - [x] Openbox
-- [ ] MATE
+- [x] MATE
 - [-] Cinnamon (installation ok, Cinnamon main menu does not work)
 - [ ] KDE
 - [ ] GNOME
