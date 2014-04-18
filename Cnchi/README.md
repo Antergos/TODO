@@ -27,7 +27,7 @@
 - [x] Xfce
 - [x] Openbox
 - [ ] MATE
-- [ ] Cinnamon
+- [-] Cinnamon (installation ok, Cinnamon main menu does not work)
 - [ ] KDE
 - [ ] GNOME
 - [ ] NOX
