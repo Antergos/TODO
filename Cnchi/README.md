@@ -30,7 +30,7 @@
 - [-] Cinnamon (installation ok, Cinnamon main menu does not work)
 - [x] KDE
 - [ ] GNOME
-- [x] NOX
+- [x] NOX (network does not work, must setup netctl manually)
 
 #### @lots0logs
 
