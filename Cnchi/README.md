@@ -30,7 +30,7 @@
 - [-] Cinnamon (installation ok, Cinnamon main menu does not work)
 - [x] KDE
 - [ ] GNOME
-- [ ] NOX
+- [x] NOX
 
 #### @lots0logs
 
