@@ -8,6 +8,7 @@
  - [ ] Discuss/Decide on adding Dash-to-Dock and GNO-MENU extensions to GNOME.
  - [ ] Keyboard Screen - Fix image so it fits without being cut off.
  - [ ] Feature Screen - Entire window shrinks in size causing horizontal scroll bars to show.
+ - [ ] Welcome Screen - Make the progressbar stay hidden. It wasn't working on the last attempt.
 
 ### Complete Test Install For Each Desktop
 
