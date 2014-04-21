@@ -6,7 +6,8 @@
  - [x] Port v0.6 changes to CLI
  - [x] Choose a progress bar color/design.
  - [ ] Discuss/Decide on adding Dash-to-Dock and GNO-MENU extensions to GNOME.
- - [ ] Create a symbolic version of our logo icon for use in GNOME (GNOMENU)
+ - [ ] Keyboard Screen - Fix image so it fits without being cut off.
+ - [ ] Feature Screen - Entire window shrinks in size causing horizontal scroll bars to show.
 
 ### Complete Test Install For Each Desktop
 
@@ -52,6 +53,7 @@
  - [ ] Revamp the UI with a minimal, flat design.
  - [ ] Fix empty space at the bottom of some screens.
  - [ ] Get aria2 working in download.py so we have more control over any failures.
+ - [ ] Create a symbolic version of our logo icon for use in GNOME (GNOMENU)
 
 ### Advanced Install:
  - [ ] If you play with the partitioner (create partition, delete it, create it
