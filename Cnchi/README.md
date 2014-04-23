@@ -3,14 +3,16 @@
 ## v0.6 Release Blockers
 
 ### General
- - [x] Port v0.6 changes to CLI
- - [x] Choose a progress bar color/design.
- - [ ] Discuss/Decide on adding Dash-to-Dock and GNO-MENU extensions to GNOME.
- - [ ] Keyboard Screen - Fix image so it fits without being cut off.
- (@karasu) I don't like the keyboard screen as it is... it's ugly as hell.
- - [ ] Feature Screen - Entire window shrinks in size causing horizontal scroll bars to show.
- (@karasu) I hope hidding horizontal bar is enough. Try version 0.5.36, please.
- - [X] Welcome Screen - Make the progressbar stay hidden. It wasn't working on the last attempt.
+- [x] Port v0.6 changes to CLI
+- [x] Choose a progress bar color/design.
+- [ ] Discuss/Decide on adding Dash-to-Dock and GNO-MENU extensions to GNOME.
+- [ ] Keyboard Screen - Fix image so it fits without being cut off.
+
+   ```I don't like the keyboard screen as it is... it's ugly as hell. (@karasu)```
+- [ ] Feature Screen - Entire window shrinks in size causing horizontal scroll bars to show.
+
+   ```I hope hidding horizontal bar is enough. Try version 0.5.36, please. (@karasu)```
+- [X] Welcome Screen - Make the progressbar stay hidden. It wasn't working on the last attempt.
 
 ### Complete Test Install For Each Desktop
 
@@ -34,7 +36,7 @@
 - [-] Cinnamon (installation ok, Cinnamon main menu does not work)
 - [x] KDE
 - [ ] GNOME
-- [x] NOX (network does not work, must setup netctl manually)
+- [x] NOX (network does not work out-of-the-box, must setup netctl manually)
 
 #### @lots0logs
 
@@ -73,4 +75,4 @@
  - [ ] Rethink and redo this option. Doesn't work as it is.
 
  
-And much more... (see issues in github)
+And much more... (see [issues](https://github.com/Antergos/Cnchi/issues?milestone=none&state=open) in github)
