@@ -8,7 +8,7 @@
 - [ ] Discuss/Decide on adding Dash-to-Dock and GNO-MENU extensions to GNOME.
 - [ ] Keyboard Screen - Fix image so it fits without being cut off.
 
-   ```I don't like the keyboard screen as it is... it's ugly as hell. (@karasu)```
+   ```Check version 0.5.38. I think it's OK now (@karasu)```
 - [ ] Feature Screen - Entire window shrinks in size causing horizontal scroll bars to show.
 
    ```I hope hidding horizontal bar is enough. Try version 0.5.36, please. (@karasu)```
