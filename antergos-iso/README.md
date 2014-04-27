@@ -1,7 +1,7 @@
 # ANTERGOS-ISO TODO LIST
 
 ## Release Blockers
- - [ ] Port UEFI changes from port-upstream-changes branch to master.
+ - [ ] Port UEFI changes from port-upstream-changes branch to master. (Most importantly, Preloader)
 
 ## Minimal Branch
  - [ ] Create custom faenza-icon-theme package just with necesary icons for Cnchi
