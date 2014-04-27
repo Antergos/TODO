@@ -6,13 +6,11 @@
 - [x] Port v0.6 changes to CLI
 - [x] Choose a progress bar color/design.
 - [ ] Discuss/Decide on adding Dash-to-Dock and GNO-MENU extensions to GNOME.
-- [ ] Keyboard Screen - Fix image so it fits without being cut off.
-
-   ```Check version 0.5.38. I think it's OK now (@karasu)```
-- [ ] Feature Screen - Entire window shrinks in size causing horizontal scroll bars to show.
-
-   ```I hope hidding horizontal bar is enough. Try version 0.5.36, please. (@karasu)```
+- [X] Keyboard Screen - Fix image so it fits without being cut off.
+- [X] Feature Screen - Entire window shrinks in size causing horizontal scroll bars to show.
 - [X] Welcome Screen - Make the progressbar stay hidden. It wasn't working on the last attempt.
+- [ ] Desktop Screen - Prevent it from expanding Cnchi's window. This is the last one, all other screens are fine.
+- [ ] Razor-QT - Do we want to keep it or drop it now, then add LXQT whenever it is ready.
 
 ### Complete Test Install For Each Desktop
 
