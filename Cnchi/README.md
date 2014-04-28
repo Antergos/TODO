@@ -6,13 +6,13 @@
 - [x] Port v0.6 changes to CLI
 - [x] Choose a progress bar color/design.
 - [ ] Discuss/Decide on adding Dash-to-Dock and GNO-MENU extensions to GNOME.
-- [X] Keyboard Screen - Fix image so it fits without being cut off.
-- [X] Feature Screen - Entire window shrinks in size causing horizontal scroll bars to show.
-- [X] Welcome Screen - Make the progressbar stay hidden. It wasn't working on the last attempt.
+- [x] Keyboard Screen - Fix image so it fits without being cut off.
+- [x] Feature Screen - Entire window shrinks in size causing horizontal scroll bars to show.
+- [x] Welcome Screen - Make the progressbar stay hidden. It wasn't working on the last attempt.
 - [ ] Is it possible to use a fixed size wrapper element to hold all other UI elements as you would do in HTML/CSS.
     - [ ] Desktop Screen - Prevent it from expanding Cnchi's window.
     - [ ] Time Zone Map Screen - Expands Cnchi's window a few pixels.
-- [X] Disable Razor-QT
+- [x] Disable Razor-QT
 
 ### Complete Test Install For Each Desktop
 
@@ -42,9 +42,9 @@
 - [ ] Openbox
 - [ ] MATE
 - [ ] Cinnamon
-- [X] KDE
-- [X] GNOME
-- [X] NOX
+- [x] KDE
+- [x] GNOME
+- [x] NOX
 
 
 ## v0.8 Development Cycle
