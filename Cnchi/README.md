@@ -9,8 +9,9 @@
 - [X] Keyboard Screen - Fix image so it fits without being cut off.
 - [X] Feature Screen - Entire window shrinks in size causing horizontal scroll bars to show.
 - [X] Welcome Screen - Make the progressbar stay hidden. It wasn't working on the last attempt.
-- [ ] Desktop Screen - Prevent it from expanding Cnchi's window. This is the last one, all other screens are fine.
-- [ ] Razor-QT - Do we want to keep it or drop it now, then add LXQT whenever it is ready.
+- [ ] Desktop Screen - Prevent it from expanding Cnchi's window.
+- [ ] Time Zone Map Screen - Expands Cnchi's window a few pixels.
+- [ ] Disable Razor-QT
 
 ### Complete Test Install For Each Desktop
 
