@@ -12,7 +12,7 @@
 - [ ] Is it possible to use a fixed size wrapper element to hold all other UI elements as you would do in HTML/CSS.
     - [ ] Desktop Screen - Prevent it from expanding Cnchi's window.
     - [ ] Time Zone Map Screen - Expands Cnchi's window a few pixels.
-- [ ] Disable Razor-QT
+- [X] Disable Razor-QT
 
 ### Complete Test Install For Each Desktop
 
