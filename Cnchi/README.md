@@ -58,6 +58,9 @@
  - [ ] Get aria2 working in download.py so we have more control over any failures.
  - [ ] Create a symbolic version of our logo icon for use in GNOME (GNOMENU)
 
+### Bootloader Setup
+ - [ ] Fix and reactivate UEFI bootloader install on GPT drives.
+
 ### Advanced Install:
  - [ ] If you play with the partitioner (create partition, delete it, create it
    again, delete it again...) in the end it gets confused.
