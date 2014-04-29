@@ -10,9 +10,10 @@
 - [x] Feature Screen - Entire window shrinks in size causing horizontal scroll bars to show.
 - [x] Welcome Screen - Make the progressbar stay hidden. It wasn't working on the last attempt.
 - [ ] Is it possible to use a fixed size wrapper element to hold all other UI elements as you would do in HTML/CSS.
-    - [ ] Desktop Screen - Prevent it from expanding Cnchi's window.
-    - [ ] Time Zone Map Screen - Expands Cnchi's window a few pixels.
+    - [x] Desktop Screen - Prevent it from expanding Cnchi's window.
+    - [x] Time Zone Map Screen - Expands Cnchi's window a few pixels.
 - [x] Disable Razor-QT
+- [ ] KDE config corrections. This is almost done -Dustin
 
 ### Complete Test Install For Each Desktop
 
@@ -31,7 +32,7 @@
 - [x] Xfce
 - [x] Openbox
 - [x] MATE
-- [-] Cinnamon (installation ok, Cinnamon main menu does not work)
+- [x] Cinnamon (installation ok, Cinnamon main menu does not work) FIXED -Dustin
 - [x] KDE
 - [ ] GNOME
 - [x] NOX (network does not work out-of-the-box, must setup netctl manually)
@@ -41,8 +42,8 @@
 - [ ] Xfce
 - [ ] Openbox
 - [ ] MATE
-- [ ] Cinnamon
-- [x] KDE
+- [x] Cinnamon
+- [ ] KDE
 - [x] GNOME
 - [x] NOX
 
