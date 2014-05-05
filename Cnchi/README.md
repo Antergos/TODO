@@ -80,4 +80,4 @@
  - [ ] Finish this option. Doesn't work as it is.
 
  
-And much more... (see [issues](https://github.com/Antergos/Cnchi/issues?milestone=none&state=open) in github)
+And much more... (see [issues](https://github.com/Antergos/Cnchi/issues?milestone=4&page=1&state=open) in github)
