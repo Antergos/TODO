@@ -30,7 +30,7 @@
 - [x] Xfce
 - [x] Openbox
 - [x] MATE
-- [x] Cinnamon (installation ok, Cinnamon main menu does not work) FIXED -Dustin
+- [x] Cinnamon
 - [x] KDE
 - [ ] GNOME
 - [x] NOX (network does not work out-of-the-box, must setup netctl manually)
