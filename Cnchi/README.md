@@ -55,9 +55,14 @@
  - [ ] Fix empty space at the bottom of some screens.
  - [ ] Get aria2 working in download.py so we have more control over any failures.
  - [ ] Create a symbolic version of our logo icon for use in GNOME (GNOMENU)
+ - [ ] Finish wireless screen (this way network-manager applet won't be necessary)
+ - [ ] New XML layout
 
 ### Bootloader Setup
  - [ ] Fix and reactivate UEFI bootloader install on GPT drives.
+
+### Automatic Install:
+ - [ ] Allow GPT (instead of MBR) installation in UEFI systems
 
 ### Advanced Install:
  - [ ] If you play with the partitioner (create partition, delete it, create it
@@ -65,13 +70,14 @@
  - [ ] Add LVM support (create / delete)
  - [ ] Add btrfs subvolume support
  - [ ] Add RAID support
+ - [ ] Think about (if necessary) the use of /boot and /boot/efi in UEFI systems [#186](https://github.com/Antergos/Cnchi/issues/186)
 
 ### Slides screen:
  - [ ] Redo ALL slides
  - [ ] Remove popup (install completed) and add a message inside the slides screen instead.
 
 ### Alongside Install:
- - [ ] Rethink and redo this option. Doesn't work as it is.
+ - [ ] Finish this option. Doesn't work as it is.
 
  
 And much more... (see [issues](https://github.com/Antergos/Cnchi/issues?milestone=none&state=open) in github)
