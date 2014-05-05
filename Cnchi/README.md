@@ -5,7 +5,7 @@
 ### General
 - [x] Port v0.6 changes to CLI
 - [x] Choose a progress bar color/design.
-- [ ] Discuss/Decide on adding Dash-to-Dock and GNO-MENU extensions to GNOME.
+- [x] Discuss/Decide on adding Dash-to-Dock and GNO-MENU extensions to GNOME.
 - [x] Keyboard Screen - Fix image so it fits without being cut off.
 - [x] Feature Screen - Entire window shrinks in size causing horizontal scroll bars to show.
 - [x] Welcome Screen - Make the progressbar stay hidden. It wasn't working on the last attempt.
