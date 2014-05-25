@@ -11,7 +11,7 @@
 - [x] Welcome Screen - Make the progressbar stay hidden. It wasn't working on the last attempt.
 - [x] Window size fluctuations.
 - [x] Disable Razor-QT
-- [ ] KDE config corrections. This is almost done -Dustin
+- [x] KDE config corrections.
 
 ### Complete Test Install For Each Desktop
 
@@ -27,13 +27,13 @@
 
 #### @karasu
 
-- [x] Xfce
-- [x] Openbox
-- [x] MATE
-- [x] Cinnamon
+- [ ] Xfce
+- [ ] Openbox
+- [ ] MATE
+- [ ] Cinnamon
 - [x] KDE
-- [ ] GNOME
-- [x] NOX (network does not work out-of-the-box, must setup netctl manually)
+- [x] GNOME
+- [ ] NOX (network does not work out-of-the-box, must setup netctl manually)
 
 #### @lots0logs
 
@@ -50,7 +50,7 @@
 
 ### General:
  - [ ] Check if we can remove subprocess calls to pythonian code
- - [x] Encrypt home directory (needs testing)
+ - [ ] Encrypt home directory (needs testing)
  - [ ] Revamp the UI with a minimal, flat design.
  - [ ] Fix empty space at the bottom of some screens.
  - [ ] Get aria2 working in download.py so we have more control over any failures.
