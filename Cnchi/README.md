@@ -33,6 +33,7 @@
  karasu: I do not understand this. Wireless screen uses network-manager, so it won't solve anything :(
  - [ ] New XML layout
  - [ ] Window size fluctuations.
+
 ### Bootloader Setup
  - [ ] Fix and reactivate UEFI bootloader install on GPT drives.
 
