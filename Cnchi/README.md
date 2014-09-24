@@ -42,7 +42,7 @@
 
 ### Advanced Install:
  - [ ] If you play with the partitioner (create partition, delete it, create it again, delete it again...) in the end it gets confused.
- - [ ] Use [blivet](https://dlehman.fedorapeople.org/blivet-docs/)
+ - [ ] Use [blivet](https://dlehman.fedorapeople.org/blivet-docs/) instead of pyparted
  - [ ] Add LVM support (create / delete / edit)
  - [ ] Add LUKS support (create / delete / cipher selection / edit)
  - [ ] Add btrfs subvolume support
