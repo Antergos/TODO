@@ -1,50 +1,24 @@
 # CNCHI TODO LIST
 
-## v0.6 Release Blockers
+## v0.8 Release
 
-### General
-- [x] Port v0.6 changes to CLI
-- [x] Choose a progress bar color/design.
-- [x] Discuss/Decide on adding Dash-to-Dock and GNO-MENU extensions to GNOME.
-- [x] Keyboard Screen - Fix image so it fits without being cut off.
-- [x] Feature Screen - Entire window shrinks in size causing horizontal scroll bars to show.
-- [x] Welcome Screen - Make the progressbar stay hidden. It wasn't working on the last attempt.
-- [x] Window size fluctuations.
-- [x] Disable Razor-QT
-- [x] KDE config corrections.
+### General Blockers
+- [ ] Port v0.8 changes to CLI
+- [ ] Fix download global index (num of packages to download / num of packages downloaded)
+- [ ] In NOX, create a network setup by default (copy networkmanager settings to netctl)
+- [ ] Add Enlightenment and LXQT
 
 ### Complete Test Install For Each Desktop
 
-#### @faidoc
-
 - [ ] Xfce
-- [ ] Openbox
-- [x] MATE
-- [x] Cinnamon
-- [ ] KDE
-- [x] GNOME
-- [x] NOX
-
-#### @karasu
-
-- [ ] Xfce
+- [ ] Enlightenment
+- [ ] Lxqt
 - [ ] Openbox
 - [ ] MATE
 - [ ] Cinnamon
-- [x] KDE
-- [x] GNOME
-- [ ] NOX (network does not work out-of-the-box, must setup netctl manually)
-
-#### @lots0logs
-
-- [ ] Xfce
-- [ ] Openbox
-- [ ] MATE
-- [x] Cinnamon
 - [ ] KDE
-- [x] GNOME
-- [x] NOX
-
+- [ ] GNOME
+- [ ] NOX
 
 ## v0.8 Development Cycle
 
@@ -56,9 +30,9 @@
  - [ ] Get aria2 working in download.py so we have more control over any failures.
  - [ ] Create a symbolic version of our logo icon for use in GNOME (GNOMENU)
  - [ ] Finish wireless screen (this way network-manager applet won't be necessary)
+ karasu: I do not understand this. Wireless screen uses network-manager, so it won't solve anything :(
  - [ ] New XML layout
- - [ ] Add Enlightenment and LXDE
-
+ - [ ] Window size fluctuations.
 ### Bootloader Setup
  - [ ] Fix and reactivate UEFI bootloader install on GPT drives.
 
@@ -81,7 +55,7 @@
  - [ ] Remove popup (install completed) and add a message inside the slides screen instead.
 
 ### Alongside Install:
- - [ ] Finish this option. Doesn't work as it is.
+ - [ ] Finish this option. Doesn't work as it is (in fact, is a mess, should be rewritten).
 
  
 And much more... (see [issues](https://github.com/Antergos/Cnchi/issues?milestone=4&page=1&state=open) in github)
