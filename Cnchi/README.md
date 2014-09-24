@@ -41,8 +41,8 @@
  - [ ] Allow partion type and cipher selection
 
 ### Advanced Install:
- - [ ] If you play with the partitioner (create partition, delete it, create it
-   again, delete it again...) in the end it gets confused.
+ - [ ] If you play with the partitioner (create partition, delete it, create it again, delete it again...) in the end it gets confused.
+ - [ ] Use [blivet](https://dlehman.fedorapeople.org/blivet-docs/)
  - [ ] Add LVM support (create / delete / edit)
  - [ ] Add LUKS support (create / delete / cipher selection / edit)
  - [ ] Add btrfs subvolume support
