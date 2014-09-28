@@ -6,7 +6,8 @@
 - [ ] Port v0.8 changes to CLI
 - [ ] Fix download global index (num of packages to download / num of packages downloaded)
 - [ ] In NOX, create a network setup by default (copy networkmanager settings to netctl)
-- [ ] Add Enlightenment and LXQT
+- [ ] Add Enlightenment
+- [ ] Add LXQT (still in AUR)
 
 ### Complete Test Install For Each Desktop
 
